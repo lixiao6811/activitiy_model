@@ -1,0 +1,10 @@
+/.settings
+/target
+/.classpath
+.idea
+*.iml
+.DS_Store
+### dev ###
+#/src/main/resources/application-dev.yml
+#/src/main/resources/application.yml
+#/src/main/resources/logback-spring.xml
